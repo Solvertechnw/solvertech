@@ -1,0 +1,16 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" fill="#121819"/>
+  <rect x="30" y="30" width="740" height="940" rx="38" fill="url(#paint0_linear_1_2)" stroke="#2A312F"/>
+  <circle cx="400" cy="350" r="170" fill="#D9F27D" fill-opacity="0.22"/>
+  <circle cx="400" cy="365" r="128" fill="#F4F3EE" fill-opacity="0.9"/>
+  <path d="M300 780C300 672.17 360.17 600 452 600H548C639.83 600 700 672.17 700 780V862H300V780Z" fill="#F4F3EE" fill-opacity="0.88"/>
+  <path d="M355 350C355 302.1 393.1 264 441 264H459C506.9 264 545 302.1 545 350V396C545 443.9 506.9 482 459 482H441C393.1 482 355 443.9 355 396V350Z" fill="#B7C4C0" fill-opacity="0.9"/>
+  <path d="M332 710C342 640 390 588 446 588H454C510 588 558 640 568 710H332Z" fill="#C7FF3D" fill-opacity="0.8"/>
+  <text x="400" y="885" text-anchor="middle" fill="#F4F3EE" font-family="Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="8">YOUR PHOTO</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="94" y1="98" x2="705" y2="892" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101212"/>
+      <stop offset="1" stop-color="#1B2422"/>
+    </linearGradient>
+  </defs>
+</svg>
