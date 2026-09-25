@@ -1,0 +1,6 @@
+# robots.txt for Solver Tech
+# Sitemap for https://solvertech.vercel.app
+User-agent: *
+Disallow:
+
+Sitemap: https://solvertech.vercel.app/sitemap.xml
