@@ -44,6 +44,7 @@ img { display: block; max-width: 100%; }
   gap: 12px;
   font: 700 1.05rem "Space Grotesk", sans-serif;
   letter-spacing: 0.04em;
+  overflow: visible;
 }
 
 .brand small {
@@ -54,11 +55,13 @@ img { display: block; max-width: 100%; }
 }
 
 .brand-logo {
-  width: 170px;
+  width: clamp(160px, 13vw, 220px);
+  max-width: 220px;
   height: auto;
   object-fit: contain;
   display: block;
   filter: drop-shadow(0 10px 26px rgba(30, 143, 255, 0.22));
+  transform: translateX(-2px);
 }
 
 .brand-text { display: flex; align-items: center; gap: 6px; }
